@@ -1,0 +1,25 @@
+html{
+    font-size: 62.5%;
+}
+body {
+    font-size: 1.6rem;
+    font-family: Arial, sans-serif;
+    background: url('images/background_supu.jpg') no-repeat center center fixed;
+    background-size: cover;
+    background-color:rgba(255,255,255,0.8);
+    background-blend-mode:lighten;
+    color: #fff;
+}
+.hero {
+    background-color: #42b6ff;
+    color: white;
+    padding: 1.3rem;
+}
+.content {
+    padding: 5%;
+}
+#logo {
+    width: 10%;
+    max-width: 150px;
+    min-width: 80px;
+}
